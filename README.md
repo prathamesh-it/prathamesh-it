@@ -1,5 +1,9 @@
 # 💫 About Me:
-3rd-year Engineering student with strong fundamentals in Java, C/C++, and Data Structures, <br>actively solving problems on LeetCode & GeeksforGeeks (#gfg160)<br><br>Full-Stack Developer (MERN) — built real-world projects including Real-Time Chat App, Airbnb Clone, and scalable CRUD-based applications<br><br>Hands-on experience with Node.js, Express, MongoDB, React, Firebase, and REST API design; comfortable with Git & GitHub workflows<br><br>Coding competition winner and district-level volleyball & badminton player, bringing discipline, teamwork, and consistency to development
+Final Year Engineering student with strong fundamentals in Java, C/C++, and Data Structures,
+actively solving problems on LeetCode & GeeksforGeeks (#gfg160)
+Full-Stack Java Developer — built real-world projects including MessFinder (Spring Boot + React + PostgreSQL + JWT + Gemini AI) and scalable REST API based applications
+Hands-on experience with Java, Spring Boot, Spring Security, PostgreSQL, React, Cloudinary, and REST API design; comfortable with Git & GitHub workflows
+Coding competition winner and district-level volleyball & badminton player, bringing discipline, teamwork, and consistency to development
 
 
 # 💻 Tech Stack:
